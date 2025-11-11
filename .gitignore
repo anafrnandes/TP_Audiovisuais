@@ -1,0 +1,21 @@
+# Ignorar a pasta do dataset
+dataset_waste_container/
+
+# Ignorar ambientes virtuais do Python
+venv/
+*.venv/
+
+# Ignorar caches do Python
+__pycache__/
+*.pyc
+
+# Ignorar ficheiros de modelo (quando os tivermos)
+*.h5
+*.pth
+*.onnx
+
+# Ignorar ficheiros de IDEs (ex: VSCode)
+.vscode/
+
+# Ignorar ficheiros do PyCharm
+.idea/
