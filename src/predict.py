@@ -13,7 +13,7 @@ from utils import get_transforms
 
 MODEL_PATH = "C:/python/TP_Audiovisuais/Configuracoes_Redes/Best_ResNet50_FineTuned.pth"
 DATA_DIR = "C:/python/TP_Audiovisuais/dataset_waste_container"
-IMG_PATH = "C:/python/TP_Audiovisuais/pilhas.jpg"
+IMG_PATH = "C:/python/TP_Audiovisuais/teste_fogo/amarelo.jpg"
 IMG_SIZE = 224
 DEVICE = torch.device("cuda" if torch.cuda.is_available() else "cpu")
 

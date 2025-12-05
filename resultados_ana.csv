@@ -1,0 +1,11 @@
+Imagem,Previsão,Confiança
+amarelo.jpg,container_green,53.09%
+amarelo2.jpg,container_yellow,56.18%
+azul.jpg,container_blue,92.67%
+azul2.jpg,container_blue,98.96%
+azul3.jpg,container_blue,76.25%
+lixo.jpg,container_default,95.49%
+pilhas.jpg,container_battery,83.94%
+verde.jpg,container_green,46.22%
+verde2.jpg,container_green,98.63%
+verde3.jpg,container_green,60.64%
